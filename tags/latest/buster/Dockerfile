@@ -1,4 +1,4 @@
-FROM node:buster
+FROM node:iron-buster
 LABEL maintainer="Keymetrics <contact@keymetrics.io>"
 
 # Install pm2
