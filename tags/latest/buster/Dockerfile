@@ -1,4 +1,4 @@
-FROM node:buster
+FROM node:20.11.1-buster
 LABEL maintainer="Keymetrics <contact@keymetrics.io>"
 
 # Install pm2
